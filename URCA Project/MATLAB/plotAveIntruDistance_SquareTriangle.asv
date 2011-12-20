@@ -1,0 +1,15 @@
+pSquareSingle = plot(squareSingle(:,1),squareSingle(:,5),'-.');
+hold on
+
+pSquareK = plot(squareKIndividual(:,1),squareKIndividual(:,5),':');
+pSquareKSim = plot(squareThreeSimultaneous(:,1),squareThreeSimultaneous(:,5));
+
+set(pTriangleSingle,'Color','green');
+set(pRandomSingle,'Color','red');
+
+
+axis([45 80 0 1]);
+xlabel('Sensing Range (m)');
+ylabel('Average Intrusion Distance (m)');
+legend('Square','Triangle Distribution','Random Distribution');
+hold off

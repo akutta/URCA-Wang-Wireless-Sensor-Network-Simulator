@@ -1,0 +1,677 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2011.7.6)  6 JUL 2011 21:25
+entering extended mode
+**IntruDetection_2011_v1.tex
+
+(C:\Users\KuttaA\Dropbox\Research\Reports\IntrusionDetection_2011_withDrew_v1\I
+ntruDetection_2011_v1.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+
+(C:\Users\KuttaA\Dropbox\Research\Reports\IntrusionDetection_2011_withDrew_v1\I
+EEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count92
+\c@ALC@line=\count93
+\c@ALC@rem=\count94
+\c@ALC@depth=\count95
+\ALC@tlm=\skip44
+\algorithmicindent=\skip45
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count96
+\float@exts=\toks16
+\float@box=\box27
+\@float@everytoks=\toks17
+\@floatcapt=\box28
+)
+\@float@every@algorithm=\toks18
+\c@algorithm=\count97
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(C:\Users\KuttaA\Dropbox\Research\Reports\IntrusionDetection_2011_withDrew_v1\I
+ntruDetection_2011_v1.aux
+
+LaTeX Warning: Label `RandomKCover_DetectionProb_VariableRatio.eps' multiply de
+fined.
+
+
+LaTeX Warning: Label `RandomKCover_DetectionProb_VariableRatio.eps' multiply de
+fined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen119
+\scratchbox=\box29
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen120
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks20
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 86.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14> on input line 86.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.79996> on input line 86.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 86.
+Package epstopdf Info: Source file: <SimultaneousKDetection.eps>
+(epstopdf)                    date: 2011-05-26 12:40:18
+(epstopdf)                    size: 330443 bytes
+(epstopdf)             Output file: <SimultaneousKDetection-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2011-06-07 18:01:05
+(epstopdf)                    size: 30402 bytes
+(epstopdf)             Command: <epstopdf --outfile=SimultaneousKDetection-eps-
+converted-to.pdf SimultaneousKDetection.eps>
+(epstopdf)             \includegraphics on input line 105.
+Package epstopdf Info: Output file is already uptodate.
+
+<SimultaneousKDetection-eps-converted-to.pdf, id=1, 302.12875pt x 163.61125pt>
+File: SimultaneousKDetection-eps-converted-to.pdf Graphic file (type pdf)
+
+<use SimultaneousKDetection-eps-converted-to.pdf>
+Package pdftex.def Info: SimultaneousKDetection-eps-converted-to.pdf used on in
+put line 105.
+(pdftex.def)             Requested size: 202.35622pt x 109.58151pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 106.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 106.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 106.
+Package epstopdf Info: Source file: <JointKDetection.eps>
+(epstopdf)                    date: 2011-05-26 12:40:36
+(epstopdf)                    size: 271028 bytes
+(epstopdf)             Output file: <JointKDetection-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-07 18:01:06
+(epstopdf)                    size: 20749 bytes
+(epstopdf)             Command: <epstopdf --outfile=JointKDetection-eps-convert
+ed-to.pdf JointKDetection.eps>
+(epstopdf)             \includegraphics on input line 111.
+Package epstopdf Info: Output file is already uptodate.
+
+<JointKDetection-eps-converted-to.pdf, id=2, 396.48125pt x 163.61125pt>
+File: JointKDetection-eps-converted-to.pdf Graphic file (type pdf)
+
+<use JointKDetection-eps-converted-to.pdf>
+Package pdftex.def Info: JointKDetection-eps-converted-to.pdf used on input lin
+e 111.
+(pdftex.def)             Requested size: 231.26378pt x 95.43382pt.
+Package epstopdf Info: Source file: <SquareTriRandomDeployment.eps>
+(epstopdf)                    date: 2011-05-26 08:56:44
+(epstopdf)                    size: 134555 bytes
+(epstopdf)             Output file: <SquareTriRandomDeployment-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2011-06-07 18:01:07
+(epstopdf)                    size: 94273 bytes
+(epstopdf)             Command: <epstopdf --outfile=SquareTriRandomDeployment-e
+ps-converted-to.pdf SquareTriRandomDeployment.eps>
+(epstopdf)             \includegraphics on input line 187.
+Package epstopdf Info: Output file is already uptodate.
+
+<SquareTriRandomDeployment-eps-converted-to.pdf, id=3, 420.57124pt x 316.18124p
+t>
+File: SquareTriRandomDeployment-eps-converted-to.pdf Graphic file (type pdf)
+ <use SquareTriRandomDeployment-eps-converted-to.pdf>
+Package pdftex.def Info: SquareTriRandomDeployment-eps-converted-to.pdf used on
+ input line 187.
+(pdftex.def)             Requested size: 231.26378pt x 173.86162pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <C:/Users/KuttaA/Dropbox/Research/Reports/IntrusionDetection_2011_withDrew_v1/
+SimultaneousKDetection-eps-converted-to.pdf> <C:/Users/KuttaA/Dropbox/Research/
+Reports/IntrusionDetection_2011_withDrew_v1/JointKDetection-eps-converted-to.pd
+f>]
+Underfull \hbox (badness 10000) in paragraph at lines 236--239
+
+ []
+
+Package epstopdf Info: Source file: <BasicArchitecture.eps>
+(epstopdf)                    date: 2011-06-08 08:41:24
+(epstopdf)                    size: 314598 bytes
+(epstopdf)             Output file: <BasicArchitecture-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-07-06 17:38:14
+(epstopdf)                    size: 30493 bytes
+(epstopdf)             Command: <epstopdf --outfile=BasicArchitecture-eps-conve
+rted-to.pdf BasicArchitecture.eps>
+(epstopdf)             \includegraphics on input line 276.
+Package epstopdf Info: Output file is already uptodate.
+<BasicArchitecture-eps-converted-to.pdf, id=37, 274.02374pt x 243.91125pt>
+File: BasicArchitecture-eps-converted-to.pdf Graphic file (type pdf)
+
+<use BasicArchitecture-eps-converted-to.pdf>
+Package pdftex.def Info: BasicArchitecture-eps-converted-to.pdf used on input l
+ine 276.
+(pdftex.def)             Requested size: 231.26378pt x 205.85542pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+Package epstopdf Info: Source file: <SingleAnimationExample2.eps>
+(epstopdf)                    date: 2011-06-08 08:45:24
+(epstopdf)                    size: 1191242 bytes
+(epstopdf)             Output file: <SingleAnimationExample2-eps-converted-to.p
+df>
+(epstopdf)                    date: 2011-07-06 17:38:17
+(epstopdf)                    size: 101849 bytes
+(epstopdf)             Command: <epstopdf --outfile=SingleAnimationExample2-eps
+-converted-to.pdf SingleAnimationExample2.eps>
+(epstopdf)             \includegraphics on input line 299.
+Package epstopdf Info: Output file is already uptodate.
+
+<SingleAnimationExample2-eps-converted-to.pdf, id=38, 459.7175pt x 443.6575pt>
+File: SingleAnimationExample2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use SingleAnimationExample2-eps-converted-to.pdf>
+Package pdftex.def Info: SingleAnimationExample2-eps-converted-to.pdf used on i
+nput line 299.
+(pdftex.def)             Requested size: 115.63243pt x 111.59106pt.
+ [2 <C:/Users/KuttaA/Dropbox/Research/Reports/IntrusionDetection_2011_withDrew_
+v1/SquareTriRandomDeployment-eps-converted-to.pdf> <C:/Users/KuttaA/Dropbox/Res
+earch/Reports/IntrusionDetection_2011_withDrew_v1/BasicArchitecture-eps-convert
+ed-to.pdf> <C:/Users/KuttaA/Dropbox/Research/Reports/IntrusionDetection_2011_wi
+thDrew_v1/SingleAnimationExample2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <AvgIntruderDistanceAverage.eps>
+(epstopdf)                    date: 2011-06-08 08:46:11
+(epstopdf)                    size: 755235 bytes
+(epstopdf)             Output file: <AvgIntruderDistanceAverage-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2011-07-06 17:38:18
+(epstopdf)                    size: 101199 bytes
+(epstopdf)             Command: <epstopdf --outfile=AvgIntruderDistanceAverage-
+eps-converted-to.pdf AvgIntruderDistanceAverage.eps>
+(epstopdf)             \includegraphics on input line 320.
+Package epstopdf Info: Output file is already uptodate.
+
+<AvgIntruderDistanceAverage-eps-converted-to.pdf, id=53, 461.725pt x 476.78125p
+t>
+File: AvgIntruderDistanceAverage-eps-converted-to.pdf Graphic file (type pdf)
+ <use AvgIntruderDistanceAverage-eps-converted-to.pdf>
+Package pdftex.def Info: AvgIntruderDistanceAverage-eps-converted-to.pdf used o
+n input line 320.
+(pdftex.def)             Requested size: 180.67499pt x 186.56232pt.
+
+Underfull \hbox (badness 4132) in paragraph at lines 347--347
+[] []\OT1/ptm/b/n/10 if $\OML/cmm/m/it/10 NodesWithinRange\OT1/cmr/m/n/10 (\OML
+/cmm/m/it/10 curNode; i\OT1/cmr/m/n/10 ) =$ \OT1/ptm/m/n/10 true
+ []
+
+Package epstopdf Info: Source file: <connectivitySquareTriangleRandom.eps>
+(epstopdf)                    date: 2011-05-25 12:12:00
+(epstopdf)                    size: 12762 bytes
+(epstopdf)             Output file: <connectivitySquareTriangleRandom-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2011-06-07 18:01:08
+(epstopdf)                    size: 4540 bytes
+(epstopdf)             Command: <epstopdf --outfile=connectivitySquareTriangleR
+andom-eps-converted-to.pdf connectivitySquareTriangleRandom.eps>
+(epstopdf)             \includegraphics on input line 363.
+Package epstopdf Info: Output file is already uptodate.
+
+<connectivitySquareTriangleRandom-eps-converted-to.pdf, id=54, 420.57124pt x 31
+6.18124pt>
+File: connectivitySquareTriangleRandom-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use connectivitySquareTriangleRandom-eps-converted-to.pdf>
+Package pdftex.def Info: connectivitySquareTriangleRandom-eps-converted-to.pdf 
+used on input line 363.
+(pdftex.def)             Requested size: 231.26378pt x 173.86162pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+Package epstopdf Info: Source file: <AveIntruDistance_SquareTriangle.eps>
+(epstopdf)                    date: 2011-07-06 17:33:46
+(epstopdf)                    size: 21251 bytes
+(epstopdf)             Output file: <AveIntruDistance_SquareTriangle-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2011-07-06 17:38:19
+(epstopdf)                    size: 7167 bytes
+(epstopdf)             Command: <epstopdf --outfile=AveIntruDistance_SquareTria
+ngle-eps-converted-to.pdf AveIntruDistance_SquareTriangle.eps>
+(epstopdf)             \includegraphics on input line 372.
+Package epstopdf Info: Output file is already uptodate.
+
+<AveIntruDistance_SquareTriangle-eps-converted-to.pdf, id=55, 420.57124pt x 316
+.18124pt>
+File: AveIntruDistance_SquareTriangle-eps-converted-to.pdf Graphic file (type p
+df)
+ <use AveIntruDistance_SquareTriangle-eps-converted-to.pdf>
+Package pdftex.def Info: AveIntruDistance_SquareTriangle-eps-converted-to.pdf u
+sed on input line 372.
+(pdftex.def)             Requested size: 231.26378pt x 173.86162pt.
+Package epstopdf Info: Source file: <AveIntruDistance_Random.eps>
+(epstopdf)                    date: 2011-07-06 17:33:21
+(epstopdf)                    size: 14347 bytes
+(epstopdf)             Output file: <AveIntruDistance_Random-eps-converted-to.p
+df>
+(epstopdf)                    date: 2011-07-06 17:38:19
+(epstopdf)                    size: 5311 bytes
+(epstopdf)             Command: <epstopdf --outfile=AveIntruDistance_Random-eps
+-converted-to.pdf AveIntruDistance_Random.eps>
+(epstopdf)             \includegraphics on input line 379.
+Package epstopdf Info: Output file is already uptodate.
+
+<AveIntruDistance_Random-eps-converted-to.pdf, id=56, 420.57124pt x 316.18124pt
+>
+File: AveIntruDistance_Random-eps-converted-to.pdf Graphic file (type pdf)
+ <use AveIntruDistance_Random-eps-converted-to.pdf>
+Package pdftex.def Info: AveIntruDistance_Random-eps-converted-to.pdf used on i
+nput line 379.
+(pdftex.def)             Requested size: 231.26378pt x 173.86162pt.
+Package epstopdf Info: Source file: <AveIntruDistance_RanTriSquare_3_Simu_Joint
+.eps>
+(epstopdf)                    date: 2011-07-06 20:49:41
+(epstopdf)                    size: 21296 bytes
+(epstopdf)             Output file: <AveIntruDistance_RanTriSquare_3_Simu_Joint
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-07-06 20:49:49
+(epstopdf)                    size: 7405 bytes
+(epstopdf)             Command: <epstopdf --outfile=AveIntruDistance_RanTriSqua
+re_3_Simu_Joint-eps-converted-to.pdf AveIntruDistance_RanTriSquare_3_Simu_Joint
+.eps>
+(epstopdf)             \includegraphics on input line 386.
+Package epstopdf Info: Output file is already uptodate.
+
+<AveIntruDistance_RanTriSquare_3_Simu_Joint-eps-converted-to.pdf, id=57, 420.57
+124pt x 316.18124pt>
+File: AveIntruDistance_RanTriSquare_3_Simu_Joint-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use AveIntruDistance_RanTriSquare_3_Simu_Joint-eps-converted-to.pdf>
+Package pdftex.def Info: AveIntruDistance_RanTriSquare_3_Simu_Joint-eps-convert
+ed-to.pdf used on input line 386.
+(pdftex.def)             Requested size: 231.26378pt x 173.86162pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+
+ []
+
+Package epstopdf Info: Source file: <AveIntruDistance_RanTriSquare_SingleDetect
+ion.eps>
+(epstopdf)                    date: 2011-05-26 09:38:54
+(epstopdf)                    size: 13739 bytes
+(epstopdf)             Output file: <AveIntruDistance_RanTriSquare_SingleDetect
+ion-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-06-07 18:01:09
+(epstopdf)                    size: 5010 bytes
+(epstopdf)             Command: <epstopdf --outfile=AveIntruDistance_RanTriSqua
+re_SingleDetection-eps-converted-to.pdf AveIntruDistance_RanTriSquare_SingleDet
+ection.eps>
+(epstopdf)             \includegraphics on input line 392.
+Package epstopdf Info: Output file is already uptodate.
+
+<AveIntruDistance_RanTriSquare_SingleDetection-eps-converted-to.pdf, id=58, 420
+.57124pt x 316.18124pt>
+File: AveIntruDistance_RanTriSquare_SingleDetection-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use AveIntruDistance_RanTriSquare_SingleDetection-eps-converted-to.pdf>
+Package pdftex.def Info: AveIntruDistance_RanTriSquare_SingleDetection-eps-conv
+erted-to.pdf used on input line 392.
+(pdftex.def)             Requested size: 231.26378pt x 173.86162pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+[3 <C:/Users/KuttaA/Dropbox/Research/Reports/IntrusionDetection_2011_withDrew_v
+1/AvgIntruderDistanceAverage-eps-converted-to.pdf> <C:/Users/KuttaA/Dropbox/Res
+earch/Reports/IntrusionDetection_2011_withDrew_v1/connectivitySquareTriangleRan
+dom-eps-converted-to.pdf>] [4 <C:/Users/KuttaA/Dropbox/Research/Reports/Intrusi
+onDetection_2011_withDrew_v1/AveIntruDistance_SquareTriangle-eps-converted-to.p
+df> <C:/Users/KuttaA/Dropbox/Research/Reports/IntrusionDetection_2011_withDrew_
+v1/AveIntruDistance_Random-eps-converted-to.pdf> <C:/Users/KuttaA/Dropbox/Resea
+rch/Reports/IntrusionDetection_2011_withDrew_v1/AveIntruDistance_RanTriSquare_3
+_Simu_Joint-eps-converted-to.pdf> <C:/Users/KuttaA/Dropbox/Research/Reports/Int
+rusionDetection_2011_withDrew_v1/AveIntruDistance_RanTriSquare_SingleDetection-
+eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 563--567
+
+ []
+
+Package epstopdf Info: Source file: <RandomKCover_DetectionProb_VariableRatio.e
+ps>
+(epstopdf)                    date: 2011-07-06 21:09:16
+(epstopdf)                    size: 486829 bytes
+(epstopdf)             Output file: <RandomKCover_DetectionProb_VariableRatio-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2011-07-06 21:09:22
+(epstopdf)                    size: 75661 bytes
+(epstopdf)             Command: <epstopdf --outfile=RandomKCover_DetectionProb_
+VariableRatio-eps-converted-to.pdf RandomKCover_DetectionProb_VariableRatio.eps
+>
+(epstopdf)             \includegraphics on input line 573.
+Package epstopdf Info: Output file is already uptodate.
+
+<RandomKCover_DetectionProb_VariableRatio-eps-converted-to.pdf, id=88, 553.0662
+5pt x 375.4025pt>
+File: RandomKCover_DetectionProb_VariableRatio-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use RandomKCover_DetectionProb_VariableRatio-eps-converted-to.pdf>
+Package pdftex.def Info: RandomKCover_DetectionProb_VariableRatio-eps-converted
+-to.pdf used on input line 573.
+(pdftex.def)             Requested size: 231.26378pt x 156.96913pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--574
+
+ []
+
+Package epstopdf Info: Source file: <RandomKCover_DistanceTraveled_VariableRati
+o.eps>
+(epstopdf)                    date: 2011-07-06 21:12:04
+(epstopdf)                    size: 481699 bytes
+(epstopdf)             Output file: <RandomKCover_DistanceTraveled_VariableRati
+o-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-07-06 21:12:09
+(epstopdf)                    size: 77744 bytes
+(epstopdf)             Command: <epstopdf --outfile=RandomKCover_DistanceTravel
+ed_VariableRatio-eps-converted-to.pdf RandomKCover_DistanceTraveled_VariableRat
+io.eps>
+(epstopdf)             \includegraphics on input line 580.
+Package epstopdf Info: Output file is already uptodate.
+
+<RandomKCover_DistanceTraveled_VariableRatio-eps-converted-to.pdf, id=89, 553.0
+6625pt x 378.41376pt>
+File: RandomKCover_DistanceTraveled_VariableRatio-eps-converted-to.pdf Graphic 
+file (type pdf)
+
+<use RandomKCover_DistanceTraveled_VariableRatio-eps-converted-to.pdf>
+Package pdftex.def Info: RandomKCover_DistanceTraveled_VariableRatio-eps-conver
+ted-to.pdf used on input line 580.
+(pdftex.def)             Requested size: 231.26378pt x 158.22824pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
+
+ []
+
+Package epstopdf Info: Source file: <RandomKCover_DistanceTraveled_VariableRati
+o_v2.eps>
+(epstopdf)                    date: 2011-07-06 21:24:19
+(epstopdf)                    size: 476597 bytes
+(epstopdf)             Output file: <RandomKCover_DistanceTraveled_VariableRati
+o_v2-eps-converted-to.pdf>
+(epstopdf)                    date: 2011-07-06 21:24:22
+(epstopdf)                    size: 79567 bytes
+(epstopdf)             Command: <epstopdf --outfile=RandomKCover_DistanceTravel
+ed_VariableRatio_v2-eps-converted-to.pdf RandomKCover_DistanceTraveled_Variable
+Ratio_v2.eps>
+(epstopdf)             \includegraphics on input line 587.
+Package epstopdf Info: Output file is already uptodate.
+
+<RandomKCover_DistanceTraveled_VariableRatio_v2-eps-converted-to.pdf, id=90, 69
+1.58376pt x 429.605pt>
+File: RandomKCover_DistanceTraveled_VariableRatio_v2-eps-converted-to.pdf Graph
+ic file (type pdf)
+
+<use RandomKCover_DistanceTraveled_VariableRatio_v2-eps-converted-to.pdf>
+Package pdftex.def Info: RandomKCover_DistanceTraveled_VariableRatio_v2-eps-con
+verted-to.pdf used on input line 587.
+(pdftex.def)             Requested size: 231.26378pt x 143.65799pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+
+ []
+
+
+(C:\Users\KuttaA\Dropbox\Research\Reports\IntrusionDetection_2011_withDrew_v1\I
+ntruDetection_2011_v1.bbl [5 <C:/Users/KuttaA/Dropbox/Research/Reports/Intrusio
+nDetection_2011_withDrew_v1/RandomKCover_DetectionProb_VariableRatio-eps-conver
+ted-to.pdf> <C:/Users/KuttaA/Dropbox/Research/Reports/IntrusionDetection_2011_w
+ithDrew_v1/RandomKCover_DistanceTraveled_VariableRatio-eps-converted-to.pdf> <C
+:/Users/KuttaA/Dropbox/Research/Reports/IntrusionDetection_2011_withDrew_v1/Ran
+domKCover_DistanceTraveled_VariableRatio_v2-eps-converted-to.pdf>])
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[6
+
+]
+(C:\Users\KuttaA\Dropbox\Research\Reports\IntrusionDetection_2011_withDrew_v1\I
+ntruDetection_2011_v1.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2583 strings out of 495354
+ 43786 string characters out of 3183093
+ 102818 words of memory out of 3000000
+ 5711 multiletter control sequences out of 15000+200000
+ 38534 words of font info for 74 fonts, out of 3000000 for 9000
+ 17 hyphenation exceptions out of 8191
+ 42i,8n,23p,368b,646s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
+w/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on IntruDetection_2011_v1.pdf (6 pages, 778275 bytes).
+PDF statistics:
+ 150 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
