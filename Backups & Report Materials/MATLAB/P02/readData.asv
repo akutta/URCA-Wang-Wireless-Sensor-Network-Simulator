@@ -1,0 +1,29 @@
+
+[X,Y] = meshgrid(0:10,1:10);
+
+%Figure 4 and 10
+directEnergyDissipation = csvread('DIRECTEnergyDissipated.csv');
+eDissDIRECT = directEnergyDissipation(:,3);
+
+mteEnergyDissipation = csvread('MULTIHOPEnergyDissipated.csv');
+eDissMTE = mteEnergyDissipation(:,3);
+
+leachEnergyDissipation = csvread('LEACHEnergyDissipated.csv');
+eDissLEACH = leachEnergyDissipation(:,3);
+
+% Figure 5 and 11
+directNumAlive = csvread('DIRECTNumberAlive.csv');
+mteNumAlive = csvread('MULTIHOPNumberAlive.csv');
+leachNumAlive = csvread('LEACHNumberAlive.csv');
+
+% Figure 3
+randomBoard = csvread('DIRECTAliveFigure3Data.csv');
+
+% Figure 6
+directFigure6Alive = csvread('DIRECTAliveFigure6Data.csv');
+directFigure6Dead = csvread('DIRECTDeadFigure6Data.csv');
+mteFigure6Alive = csvread('MULTIHOPAliveFigure6Data.csv');
+mteFigure6Dead = csvread('MULTIHOPDeadFigure6Data.csv');
+
+% Figure 12
+leachFigure12Alive = csvread('LEACHA
