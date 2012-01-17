@@ -1,1 +1,0 @@
-directEnergyDissipation = csvread('DIRECTEnergyDissipated.csv');
